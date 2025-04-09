@@ -34,11 +34,12 @@ Berikut ini tabel analisa dengan menggunakan query Big Query
 
 ## Query Syntax
 Berikut ini query yang saya lakukan untuk mendapatkan tabel analisa di atas 
-![Screenshot 2025-04-09 074335](https://github.com/user-attachments/assets/880a8458-2912-4ba1-aafb-6f2635c60406)
+![image](https://github.com/user-attachments/assets/2f3f3087-a30b-4f3c-9674-7a86f0e0a6fa)
 
 ## Membuat Dashboard Performance Analytics dengan Power BI
 Berikut ini hasil dashboard performance analytics image
 ![image](https://github.com/user-attachments/assets/d1fac761-f0b8-4633-a905-3370f901c68d)
+
 Berikut ini link dashboard: https://lookerstudio.google.com/reporting/29efbbb7-24a9-4d67-9fc2-bd9bdc709236
 
 

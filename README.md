@@ -11,7 +11,7 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 3. kf_kantor_cabang.csv
 4. kf_product.csv
 
-## Pernyataan Masalah
+## Problem Statement
 1. Menyajikan gambaran menyeluruh mengenai kinerja Kimia Farma untuk periode 2020-2023.
 2. Membantu pemangku kepentingan dalam memahami tren dan pola kinerja perusahaan.
 3. Mengidentifikasi area yang perlu diperbaiki untuk meningkatkan kinerja perusahaan.

@@ -22,19 +22,17 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki visi
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".
 
 Pada tahap selanjutnya, pilih sumber data dengan mengganti opsi di kolom "Create Table Form" menjadi "Upload", lalu unggah file CSV yang akan digunakan. Pastikan untuk memberikan nama tabel di kolom "Table". Agar struktur data dapat dikenali secara otomatis, centang opsi "Auto Detect" pada bagian schema. Kemudian, atur "Field Delimiter" sesuai dengan format data agar setiap kolom dapat terbaca dengan benar. Setelah semua pengaturan selesai, tekan tombol "Create Table" untuk memasukkan data ke dalam tabel. Setelah proses ini selesai, tabel yang telah dibuat akan muncul di dalam dataset dan siap untuk dianalisis di BigQuery.
-![Screenshot 2025-04-09 074234](https://github.com/user-attachments/assets/43185b5b-bbe8-43fa-af5b-2562acf7e4b0)
-![Screenshot 2025-04-09 074247](https://github.com/user-attachments/assets/f997ae48-515a-41bc-bb94-460065c632c5)
-
+![Screenshot 2025-04-09 074234](https://github.com/user-attachments/assets/52e31557-413d-415e-89bc-2ef72aadbafc)
+![Screenshot 2025-04-09 074247](https://github.com/user-attachments/assets/8e3d4cae-03a3-410f-9159-644a5cb07882)
 
 ## Membuat Tabel Analisa
 Berikut ini tabel analisa dengan menggunakan query Big Query
-![Screenshot 2025-04-09 074259](https://github.com/user-attachments/assets/a6b307d5-cc35-4c2b-a398-625d293348a5)
-![Screenshot 2025-04-09 074320](https://github.com/user-attachments/assets/2ebbb01e-ce89-49d6-92a0-1075e5e56413)
-![WhatsApp Image 2025-04-09 at 08 05 04_58cbee68](https://github.com/user-attachments/assets/73aa7890-8a11-4cee-80a2-55c0b513bbd3)
+![Screenshot 2025-04-09 074259](https://github.com/user-attachments/assets/70794b48-81ab-49e5-bb64-8699ea8e04fa)
+![WhatsApp Image 2025-04-09 at 08 05 04_5473488d](https://github.com/user-attachments/assets/8f2d7d28-1d9f-4ce4-b5f4-15347f02894f)
 
 ## Query Syntax
 Berikut ini query yang saya lakukan untuk mendapatkan tabel analisa di atas 
-![Screenshot 2025-04-09 074335](https://github.com/user-attachments/assets/26e531a7-3927-4273-aacf-6177d3c7ccf7)
+![Screenshot 2025-04-09 074335](https://github.com/user-attachments/assets/880a8458-2912-4ba1-aafb-6f2635c60406)
 
 ## Membuat Dashboard Performance Analytics dengan Power BI
 Berikut ini hasil dashboard performance analytics image

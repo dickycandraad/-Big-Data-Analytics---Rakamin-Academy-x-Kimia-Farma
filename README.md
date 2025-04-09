@@ -12,11 +12,11 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 4. kf_product.csv
 
 ## Pernyataan Masalah
-1. Memberikan gambaran lengkap tentang kinerja Kimia Farma dari tahun 2020 hingga 2023.
-2. Membantu pemangku kepentingan memahami tren dan pola bisnis perusahaan.
-3. Menemukan area yang bisa diperbaiki untuk meningkatkan kinerja perusahaan.
-4. Membantu dalam pengambilan keputusan agar pendapatan dan jumlah transaksi meningkat.
-5. Memberikan informasi tentang cabang yang perlu ditingkatkan agar pelanggan lebih puas.
+1. Menyajikan gambaran menyeluruh mengenai kinerja Kimia Farma untuk periode 2020-2023.
+2. Membantu pemangku kepentingan dalam memahami tren dan pola kinerja perusahaan.
+3. Mengidentifikasi area yang perlu diperbaiki untuk meningkatkan kinerja perusahaan.
+4. Mendukung pengambilan keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan.
+5. Menyediakan informasi terkait cabang-cabang yang perlu dioptimalkan guna meningkatkan kepuasan pelanggan.
 
 ## Langkah Langkah Pengerjaan Final Task
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".

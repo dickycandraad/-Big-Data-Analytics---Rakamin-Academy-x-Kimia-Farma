@@ -38,7 +38,8 @@ Berikut ini query yang saya lakukan untuk mendapatkan tabel analisa di atas
 
 ## Membuat Dashboard Performance Analytics dengan Power BI
 Berikut ini hasil dashboard performance analytics image
-![image](https://github.com/user-attachments/assets/d1fac761-f0b8-4633-a905-3370f901c68d)
+![image](https://github.com/user-attachments/assets/bb44dfa2-13fe-4333-9767-f3c7e8828ecd)
+
 
 Berikut ini link dashboard: https://lookerstudio.google.com/reporting/29efbbb7-24a9-4d67-9fc2-bd9bdc709236
 

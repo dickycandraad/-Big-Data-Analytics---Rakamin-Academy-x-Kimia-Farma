@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/02d94c98-4b04-4600-aa1d-1bfc230fc1f6)# -Big-Data-Analytics---Rakamin-Academy-x-Kimia-Farma
+![image](https://github.com/user-attachments/assets/1f5b30c8-562b-4094-8790-ba0271bf0263)![image](https://github.com/user-attachments/assets/02d94c98-4b04-4600-aa1d-1bfc230fc1f6)# -Big-Data-Analytics---Rakamin-Academy-x-Kimia-Farma
 ## About Company
 Kimia Farma merupakan perusahaan farmasi pertama dan terbesar di Indonesia yang berdiri sejak tahun 1817. PT Kimia Farma Tbk adalah salah satu perusahaan farmasi terdepan di Indonesia yang bergerak dalam produksi, distribusi, serta penjualan obat-obatan dan produk kesehatan lainnya. Sebagai bagian dari grup BUMN (Badan Usaha Milik Negara), Kimia Farma berkomitmen untuk meningkatkan kualitas Kesehatan Masyarakat Indonesia.
 
@@ -22,13 +22,15 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".
 
 Pada tahap selanjutnya, pilih sumber data dengan mengganti opsi di kolom "Create Table Form" menjadi "Upload", lalu unggah file CSV yang akan digunakan. Pastikan untuk memberikan nama tabel di kolom "Table". Agar struktur data dapat dikenali secara otomatis, centang opsi "Auto Detect" pada bagian schema. Kemudian, atur "Field Delimiter" sesuai dengan format data agar setiap kolom dapat terbaca dengan benar. Setelah semua pengaturan selesai, tekan tombol "Create Table" untuk memasukkan data ke dalam tabel. Setelah proses ini selesai, tabel yang telah dibuat akan muncul di dalam dataset dan siap untuk dianalisis di BigQuery.
-![Screenshot 2025-04-09 074234](https://github.com/user-attachments/assets/52e31557-413d-415e-89bc-2ef72aadbafc)
-![Screenshot 2025-04-09 074247](https://github.com/user-attachments/assets/8e3d4cae-03a3-410f-9159-644a5cb07882)
+![image](https://github.com/user-attachments/assets/b4f2f1f4-86af-4e72-af9e-0deb44fed773)
+![image](https://github.com/user-attachments/assets/e7c09936-4c51-484b-be08-fdd6ea59c273)
 
 ## Membuat Tabel Analisa
 Berikut ini tabel analisa dengan menggunakan query Big Query
-![Screenshot 2025-04-09 074259](https://github.com/user-attachments/assets/70794b48-81ab-49e5-bb64-8699ea8e04fa)
-![WhatsApp Image 2025-04-09 at 08 05 04_5473488d](https://github.com/user-attachments/assets/8f2d7d28-1d9f-4ce4-b5f4-15347f02894f)
+![image](https://github.com/user-attachments/assets/686b0954-d07e-444f-b8d3-e8d5e53ea520)
+![image](https://github.com/user-attachments/assets/9d16402c-65df-420a-bba3-cf1decc1457f)
+![image](https://github.com/user-attachments/assets/06472899-d950-4a36-8623-adf4f0c1ac52)
+![image](https://github.com/user-attachments/assets/2367b449-af72-42a2-9578-13a80062f235)
 
 ## Query Syntax
 Berikut ini query yang saya lakukan untuk mendapatkan tabel analisa di atas 

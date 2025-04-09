@@ -1,4 +1,4 @@
-# -Big-Data-Analytics---Rakamin-Academy-x-Kimia-Farma
+# Big Data Analytics Rakamin Academy x Kimia Farma
 ## About Company
 Kimia Farma merupakan perusahaan farmasi pertama dan terbesar di Indonesia yang berdiri sejak tahun 1817. PT Kimia Farma Tbk adalah salah satu perusahaan farmasi terdepan di Indonesia yang bergerak dalam produksi, distribusi, serta penjualan obat-obatan dan produk kesehatan lainnya. Sebagai bagian dari grup BUMN (Badan Usaha Milik Negara), Kimia Farma berkomitmen untuk meningkatkan kualitas Kesehatan Masyarakat Indonesia.
 

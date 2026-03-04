@@ -65,7 +65,7 @@ Pada proyek ini, anda harus membuat sebuah dashboard analisis kinerja Kimia Farm
 - Top 5 Cabang Dengan Rating Tertinggi, namun Rating Transaksi Terendah Indonesia's Geo Map Untuk Total Profit Masing-masing Provinsi
 - Dan analisis lainnya yang dapat anda eksplorasi.
 
-## Langkah Langkah Pengerjaan Final Task
+## Langkah-Langkah Pengerjaan Final Task
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".
 
 Pada tahap selanjutnya, pilih sumber data dengan mengganti opsi di kolom "Create Table From" menjadi "Upload", lalu unggah file CSV yang akan digunakan. Pastikan untuk memberikan nama tabel di kolom "Table". Agar struktur data dapat dikenali secara otomatis, centang opsi "Auto Detect" pada bagian schema. Kemudian, atur "Field Delimiter" sesuai dengan format data agar setiap kolom dapat terbaca dengan benar. Setelah semua pengaturan selesai, tekan tombol "Create Table" untuk memasukkan data ke dalam tabel. Setelah proses ini selesai, tabel yang telah dibuat akan muncul di dalam dataset dan siap untuk dianalisis di BigQuery.

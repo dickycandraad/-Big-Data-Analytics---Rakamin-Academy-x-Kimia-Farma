@@ -12,7 +12,7 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 4. Mendukung pengambilan keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan.
 5. Menyediakan informasi terkait cabang-cabang yang perlu dioptimalkan guna meningkatkan kepuasan pelanggan.
 
-## Dataset Overview
+### Dataset Overview
 1. kf_final_transaction.csv
 2. kf_inventory.csv
 3. kf_kantor_cabang.csv

@@ -20,8 +20,50 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 
 ## Case Study
 1. Importing Dataset to BigQuery
+Pada proyek ini anda ditugaskan untuk mengimpor dataset 
+yang telah disediakan:
+- kf_final_transaction.csv
+- kf_inventory.csv
+- kf_kantor_cabang.csv
+- kf_product.csv 
+
+Anda harus mengimport keempat dataset tersebut untuk menjadi tabel pada BigQuery, nama tabelnya merupakan nama dari dataset, namun tanpa ".csv"
+
 2. Buat tabel analisa
+Pada proyek ini, anda juga diminta untuk membuat tabel analisa berdasarkan hasil aggregasi dari ke-empat tabel yang sudah 
+diimport sebelumnya. Berikut ini adalah kolom-kolom yang mandatory pada tabel tersebut:
+- transaction_id: kode id transaksi,
+- date: tanggal transaksi dilakukan,
+- branch_id: kode id cabang Kimia Farma,
+- branch_name: nama cabang Kimia Farma,
+- kota: kota cabang Kimia Farma,
+- provinsi: provinsi cabang Kimia Farma,
+- rating_cabang: penilaian konsumen terhadap cabang Kimia Farma
+- customer_name: Nama customer yang melakukan transaksi,
+- product_id: kode product obat,
+- product_name: nama obat,
+- actual_price: harga obat,
+- discount_percentage: Persentase diskon yang diberikan pada obat, persentase_gross_laba : Persentase laba yang seharusnya diterima dari obat dengan ketentuan berikut:
+  1) Harga <= Rp 50.000 -> laba 10%
+  2) Harga > Rp 50.000 - 100.000 -> laba 15%
+  3) Harga > Rp 100.000 - 300.000 -> laba 20%
+  4) Harga > Rp 300.000 - 500.000 -> laba 25%
+  5) Harga > Rp 500.000 -> laba 30%,
+- nett_sales: harga setelah diskon,
+- nett_profit: keuntungan yang diperoleh Kimia Farma,
+- rating_transaksi: penilaian konsumen terhadap transaksi yang dilakukan.
+
 3. Create dashboard performance analytics Kimia Farma Business Year 2020-2023
+Pada proyek ini, anda harus membuat sebuah dashboard analisis kinerja Kimia Farma tahun 2020-2023 di Google Looker Studio. Dashboard ini anda buat berdasarkan tabel analisa yang telah anda buat sebelumnya pada BigQuery, sehingga anda perlu menghubungkan table tersebut ke Google Looker Studio. Anda dapat mendesain dashboard sesuai dengan kreativitas anda masing-masing, namun dashboardnya harus mencangkup:
+- Judul Dashboard
+- Summary Dashboard
+- Filter Control
+- Snapshot Data
+- Perbandingan Pendapatan Kimia Farma dari tahun ke tahun
+- Top 10 Total transaksi cabang provinsi
+- Top 10 Nett sales cabang provinsi
+- Top 5 Cabang Dengan Rating Tertinggi, namun Rating Transaksi Terendah Indonesia's Geo Map Untuk Total Profit Masing-masing Provinsi
+- Dan analisis lainnya yang dapat anda eksplorasi.
 
 ## Langkah Langkah Pengerjaan Final Task
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".

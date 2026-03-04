@@ -2,8 +2,15 @@
 ## About Company
 Kimia Farma merupakan perusahaan farmasi pertama dan terbesar di Indonesia yang berdiri sejak tahun 1817. PT Kimia Farma Tbk adalah salah satu perusahaan farmasi terdepan di Indonesia yang bergerak dalam produksi, distribusi, serta penjualan obat-obatan dan produk kesehatan lainnya. Sebagai bagian dari grup BUMN (Badan Usaha Milik Negara), Kimia Farma berkomitmen untuk meningkatkan kualitas Kesehatan Masyarakat Indonesia.
 
-## Case Study Overview
+## Case Study Background
 Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tujuan untuk terus berkembang dan meningkatkan layanan kesehatan kepada masyarakat. Namun, dalam menghadapi persaingan yang semakin ketat dan lingkungan bisnis yang terus berubah, Kimia Farma perlu melakukan evaluasi kinerja secara menyeluruh. Di sinilah peran Big Data Analytics sangat penting. Dengan volume data transaksi, inventaris, cabang, dan produk yang sangat besar, Kimia Farma memiliki potensi informasi yang sangat bernilai yang belum sepenuhnya dimanfaatkan. Analisis data yang mendalam dapat membantu Kimia Farma menjawab berbagai pertanyaan strategis terkait kinerja bisnis mereka.
+
+### Project Objectives
+1. Menyajikan gambaran menyeluruh mengenai kinerja Kimia Farma untuk periode 2020-2023.
+2. Membantu pemangku kepentingan dalam memahami tren dan pola kinerja perusahaan.
+3. Mengidentifikasi area yang perlu diperbaiki untuk meningkatkan kinerja perusahaan.
+4. Mendukung pengambilan keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan.
+5. Menyediakan informasi terkait cabang-cabang yang perlu dioptimalkan guna meningkatkan kepuasan pelanggan.
 
 ## Dataset Overview
 1. kf_final_transaction.csv
@@ -11,12 +18,10 @@ Sebagai salah satu BUMN farmasi terbesar di Indonesia, Kimia Farma memiliki tuju
 3. kf_kantor_cabang.csv
 4. kf_product.csv
 
-## Project Objectives
-1. Menyajikan gambaran menyeluruh mengenai kinerja Kimia Farma untuk periode 2020-2023.
-2. Membantu pemangku kepentingan dalam memahami tren dan pola kinerja perusahaan.
-3. Mengidentifikasi area yang perlu diperbaiki untuk meningkatkan kinerja perusahaan.
-4. Mendukung pengambilan keputusan strategis untuk meningkatkan pendapatan dan total transaksi di masa depan.
-5. Menyediakan informasi terkait cabang-cabang yang perlu dioptimalkan guna meningkatkan kepuasan pelanggan.
+## Case Study
+1. Importing Dataset to BigQuery
+2. Buat tabel analisa
+3. Create dashboard performance analytics Kimia Farma Business Year 2020-2023
 
 ## Langkah Langkah Pengerjaan Final Task
 Untuk mengimpor dataset ke BigQuery, langkah pertama adalah membuat dataset baru dengan menekan ikon titik tiga di sebelah database, kemudian memilih opsi "Create Dataset". Setelah itu, berikan nama dataset di kolom "Dataset ID" dan klik tombol "Create Dataset" untuk membuat dataset baru. Selanjutnya, untuk menambahkan tabel, tekan ikon titik tiga di samping dataset yang telah dibuat, lalu pilih "Create Table".
